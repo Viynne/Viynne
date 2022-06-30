@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vine Noble
 - 👀 I’m interested in Artificial Intelligence, specifically machine learning
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning to Deploy Machine Learning Models
 - 💞️ I’m looking to collaborate on Machine Learning Engineering Projects
 - 📫 How to reach me vistavine@outlook.com
 
